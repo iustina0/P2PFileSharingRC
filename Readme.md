@@ -1,4 +1,4 @@
-# P2P File Sharing - project for Computer Networks FII, UAIC
+# P2P File Sharing - project for Computer Networks FII, UAIC - January 2023
 
 # Part2Part - Peer-to-Peer File Sharing Application
 
